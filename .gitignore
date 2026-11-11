@@ -1,0 +1,6 @@
+clusterdata/
+.venv/
+venv/
+__pycache__/
+*.pyc
+weights/evolved_new.json

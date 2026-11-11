@@ -1,0 +1,22 @@
+{
+ "FGD as released": {
+  "total_gpus": 297.18,
+  "fully_idle_gpus": 20,
+  "slivers": {
+   "1-100 milli": 37.8,
+   "100-200 milli": 203.05,
+   "200-400 milli": 23.64,
+   "400-1000 milli": 12.69
+  }
+ },
+ "Evolved rule": {
+  "total_gpus": 253.97,
+  "fully_idle_gpus": 0,
+  "slivers": {
+   "1-100 milli": 39.81,
+   "100-200 milli": 206.62,
+   "200-400 milli": 7.54,
+   "400-1000 milli": 0.0
+  }
+ }
+}

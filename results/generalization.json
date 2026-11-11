@@ -1,0 +1,146 @@
+{
+ "cpu0": {
+  "fgd": 5.147188237819274,
+  "packing": 5.682442584245547,
+  "evolved": 4.171227731272805,
+  "seen_in_training": false
+ },
+ "cpu037": {
+  "fgd": 4.993560849967804,
+  "packing": 5.880875724404377,
+  "evolved": 4.261429491307148,
+  "seen_in_training": false
+ },
+ "cpu050": {
+  "fgd": 5.187540244687701,
+  "packing": 5.653573728267869,
+  "evolved": 4.223384846533591,
+  "seen_in_training": false
+ },
+ "cpu072": {
+  "fgd": 4.7672783859197265,
+  "packing": 5.641446662373898,
+  "evolved": 4.143485726550763,
+  "seen_in_training": false
+ },
+ "cpu100": {
+  "fgd": 5.122665808113328,
+  "packing": 5.629641553981543,
+  "evolved": 4.196340416398367,
+  "seen_in_training": true
+ },
+ "cpu200": {
+  "fgd": 6.146866280317664,
+  "packing": 5.792337411461687,
+  "evolved": 4.258907490877872,
+  "seen_in_training": false
+ },
+ "cpu235": {
+  "fgd": 7.725960506546467,
+  "packing": 6.503058596265291,
+  "evolved": 5.251878085426057,
+  "seen_in_training": false
+ },
+ "cpu250": {
+  "fgd": 8.714155398154107,
+  "packing": 7.22665808113329,
+  "evolved": 6.190276883451385,
+  "seen_in_training": false
+ },
+ "cpu300": {
+  "fgd": 14.564284181154752,
+  "packing": 14.607426486370464,
+  "evolved": 14.985297274093156,
+  "seen_in_training": false
+ },
+ "default": {
+  "fgd": 5.044269156471344,
+  "packing": 5.719682335265079,
+  "evolved": 4.127173213135866,
+  "seen_in_training": true
+ },
+ "gpushare100": {
+  "fgd": 13.496243829147888,
+  "packing": 14.175949774629748,
+  "evolved": 13.67299849753166,
+  "seen_in_training": false
+ },
+ "gpushare20": {
+  "fgd": 3.7141017385705113,
+  "packing": 4.488141232024038,
+  "evolved": 3.0398154110324094,
+  "seen_in_training": false
+ },
+ "gpushare40": {
+  "fgd": 6.318630607426486,
+  "packing": 7.204335694355009,
+  "evolved": 5.6047435071903875,
+  "seen_in_training": true
+ },
+ "gpushare60": {
+  "fgd": 8.952833226014164,
+  "packing": 9.720165271517493,
+  "evolved": 8.366709594333548,
+  "seen_in_training": false
+ },
+ "gpushare80": {
+  "fgd": 11.222204335694355,
+  "packing": 11.870948701438074,
+  "evolved": 10.881197681905986,
+  "seen_in_training": false
+ },
+ "gpuspec05": {
+  "fgd": 5.095406739643697,
+  "packing": 5.774522429705946,
+  "evolved": 4.157812835372398,
+  "seen_in_training": false
+ },
+ "gpuspec10": {
+  "fgd": 5.377173213135862,
+  "packing": 5.610163125134153,
+  "evolved": 4.202940545181367,
+  "seen_in_training": false
+ },
+ "gpuspec20": {
+  "fgd": 5.605280103026403,
+  "packing": 10.677022966301783,
+  "evolved": 4.280585962652931,
+  "seen_in_training": true
+ },
+ "gpuspec25": {
+  "fgd": 6.047113114402233,
+  "packing": 13.606836230950853,
+  "evolved": 5.216194462330974,
+  "seen_in_training": false
+ },
+ "gpuspec33": {
+  "fgd": 12.380768405237175,
+  "packing": 18.545449667310585,
+  "evolved": 10.82828933247478,
+  "seen_in_training": false
+ },
+ "multigpu20": {
+  "fgd": 4.623417042283754,
+  "packing": 5.066323245331616,
+  "evolved": 3.7411461687057295,
+  "seen_in_training": false
+ },
+ "multigpu30": {
+  "fgd": 3.799259497746295,
+  "packing": 4.455569864777849,
+  "evolved": 3.36617299849753,
+  "seen_in_training": true
+ },
+ "multigpu40": {
+  "fgd": 3.127495170637477,
+  "packing": 4.1142949130714745,
+  "evolved": 3.009980682549903,
+  "seen_in_training": false
+ },
+ "multigpu50": {
+  "fgd": 2.831723545825282,
+  "packing": 3.6183193818415984,
+  "evolved": 2.7483365529083486,
+  "seen_in_training": false
+ }
+}
