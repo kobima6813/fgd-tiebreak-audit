@@ -4,6 +4,8 @@ A reproduction study of *Fragmentation Gradient Descent* (FGD), the GPU-sharing 
 "Beware of Fragmentation" (Weng et al., USENIX ATC '23), on the Alibaba `cluster-trace-gpu-v2023`
 trace (1,213 nodes, 6,212 GPUs, 8,152 tasks).
 
+**Write-up:** a short blog-style summary of the findings is in [BLOG.md](BLOG.md).
+
 **Summary**
 
 1. The released FGD code gets its result from two implementation details that the paper does not
